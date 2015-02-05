@@ -143,10 +143,30 @@
             border: 1px solid black;
             background: white;
         }
+
+        .button-send{
+            width: 20%;
+            height: 32;
+            border: 1px solid black;
+            background: white;
+        }
+
+        .email{
+            width: 80%;
+            height: 32;
+            border: 1px solid black;
+            background: white;
+        }
+
+        .email-input{
+            height: 32;
+            border: 1px solid black;
+            background: white;
+        }
         
         .button-text{
-            font-family: "District Pro";
-        }
+            font-family: "District Pro Thin";
+        } 
 
         .social{
             height: 32px;
@@ -156,3 +176,55 @@
         .footer{
             margin-bottom: 150px;
         }
+
+        .input {
+            display: flex;
+            align-items: center;
+        }
+
+        .button-t {
+            height: 32px;
+            border: 1px solid;
+        }
+
+        .button-k{
+            width: auto;
+            height: 32px;
+            border: 1px solid;
+        }
+
+        #email {
+            width: 75%;
+            background: white;
+            font-family: 'District Pro';
+            color: #737373;
+            letter-spacing: 1px;
+            text-indent: 5%;
+        }
+
+        #submit {
+  width: 25%;
+  height: 32px;
+  background: white;
+  font-family: 'District Pro';
+  color: inherit;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: background .3s ease-in-out;
+} 
+
+                #submit2 {
+  width: 80%;
+  height: 32px;
+  background: white;
+  font-family: 'District Pro';
+  color: inherit;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: background .3s ease-in-out;
+} 
+
+form {
+  width: 80%;
+  margin: 0;
+}
