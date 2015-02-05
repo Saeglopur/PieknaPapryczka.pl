@@ -1,0 +1,158 @@
+        .black{
+            background-color: black;
+        }
+        
+        .white{
+            background-color: white;
+        }
+        
+        .img-cover{
+            max-width: 500px;
+            height: auto;
+        }
+        
+        .img-cover2{
+            max-width: 500px;
+            height: auto;
+            padding-bottom: 50px;
+        }        
+        
+        .text{
+            color: white;
+            font-size: 30px;
+            font-family: 'District Pro Thin';
+        }
+        
+        .cover-text{
+            font-family: 'District Pro Thin';
+            color: white;
+            font-size: 40px;
+            margin-top: 20%;
+            margin-left: 10px;
+            line-height: 50px;
+        }
+        
+        .title-text{
+            font-family: 'District Pro Thin';
+            color: white;
+            font-size: 20px;
+            margin-left: 10px;
+            margin-top: 45px;
+        }
+        
+        .title-text2{
+            font-family: 'District Pro Thin';
+            color: white;
+            font-size: 20px;
+            margin-left: 10px;
+            margin-top: 60px;
+        }
+        
+        .title-text-mini{
+            font-family: 'District Pro Thin';
+            color: white;
+            font-size: 15px;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        .title-text-mini2{
+            font-family: 'District Pro Thin';
+            color: white;
+            font-size: 19px;
+            margin-left: 10px;
+            margin-top: 50px;
+        }
+        
+        .title-text-mini3{
+            font-family: 'District Pro Thin';
+            color: white;
+            font-size: 15px;
+            margin-left: 10px;
+            margin-top: 30px;
+        }
+        
+        .title-text-mini4{
+            font-family: 'District Pro Thin';
+            color: white;
+            font-size: 15px;
+            margin-left: 10px;
+            margin-top: 7px;
+        }
+        
+        .dot-list{
+            font-family: 'Garamond';
+            color: white;
+            font-size: 18px;
+                        line-height: 225%;
+
+        }
+        
+        ul li {
+            list-style-type: disc;
+            margin-left: 0.5em;
+            color: red;
+            font-size: 17px;
+            line-height: 225%;
+        }
+        
+        ol li {
+        list-style-type: decimal;
+            margin-left: 2em;
+            color: red;
+        }
+        
+        ol li:first-line, ul li:first-line  {
+            color: white;
+            font-size: 17px;
+            font-family: 'Garamond';
+        }
+        
+        ul{
+            padding-left: 0em;
+        }
+        
+        .column{
+            font-family: 'Garmond';
+            font-size: 18px;
+            text-align: justify;
+        }
+        
+        .column-black{
+            font-family: 'Garmond';
+            font-size: 16px;
+            text-align: justify;
+            color: white;
+            padding-bottom: 60px;
+        }        
+        
+        .subtitle{
+            font-family: 'Garmond';
+            font-size: 16px;
+            color: white;
+            margin-left: 20%;
+        }        
+        
+        hr{
+            border-top: 1px solid black; 
+        }
+        
+        .button{
+            width: 80%;
+            height: 32;
+            border: 1px solid black;
+            background: white;
+        }
+        
+        .button-text{
+            font-family: "District Pro";
+        }
+
+        .social{
+            height: 32px;
+            padding-left: 10%;
+        }
+
+        .footer{
+            margin-bottom: 150px;
+        }
